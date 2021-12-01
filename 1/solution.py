@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+'''Solutions for Day 1 of Advent of Code 2021'''
+
 ### Advent of Code Tools ###
 import Tools
 
