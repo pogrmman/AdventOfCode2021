@@ -3,3 +3,10 @@
 
 # Ignore input files
 */input
+
+# Ignore venv
+Include
+Lib
+pyvenv.cfg
+Scripts
+__pycache__
