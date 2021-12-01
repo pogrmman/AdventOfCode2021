@@ -10,3 +10,6 @@ Lib
 pyvenv.cfg
 Scripts
 __pycache__
+
+# Ignore pip stuff
+*.egg-info*
